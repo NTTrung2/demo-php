@@ -1,5 +1,5 @@
 {
-  "name": "NTTrung2/php-demo-automate-build",
+  "name": "nttrung2/php-demo-automate-build",
   "minimum-stability": "dev",
   "license": "MIT License",
   "require": {
